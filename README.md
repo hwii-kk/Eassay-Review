@@ -4,4 +4,7 @@
 ***
 
 + 기초 지식
-  + ㅇㅇ 
+  + The matrix calculus you need for deep learning
+
++ Vision
+  + ImageNet Classification with Deep Convolutional Neural Networks
