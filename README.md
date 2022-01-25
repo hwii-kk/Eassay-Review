@@ -9,4 +9,4 @@
 + Vision
   + [ImageNet Classification with Deep Convolutional Neural Networks](https://github.com/hwii-kk/Eassay-Review/tree/main/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks)
 
-  + Visualizing and Understanding Convolutional Networks
+  + [Visualizing and Understanding Convolutional Networks](https://github.com/hwii-kk/Eassay-Review/tree/main/Visualizing%20and%20understanding%20Convolutional%20Networks)
