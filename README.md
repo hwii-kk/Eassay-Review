@@ -12,3 +12,5 @@
   + [Visualizing and Understanding Convolutional Networks](https://github.com/hwii-kk/Eassay-Review/tree/main/Visualizing%20and%20understanding%20Convolutional%20Networks)
   
   + [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://github.com/hwii-kk/Eassay-Review/tree/main/Very%20Deep%20Convolutional%20Networks%20for%20Large-Scale%20Image%20Recognition)
+  
+  + Deep Residual Learning for Image Recognition 
